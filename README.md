@@ -42,9 +42,9 @@ quizzes/         → quizzes publicados (DEMO1.json é um exemplo aberto)
 ## Como usei IA
 Construí o projeto com **vibe coding**: descrevi em linguagem natural o fluxo do apresentador, o fluxo do participante e as regras de pontuação, deixei o agente de IA gerar o código em etapas e revisei e testei cada parte antes de seguir. Mantive HTML, CSS e JS em arquivos separados para facilitar a manutenção.
 
-## Onde foi usado
+## Para que foi criado
 - Apresentação de matéria na faculdade (Senac, Análise e Desenvolvimento de Sistemas)
-- Oficinas de HTML/CSS do projeto de extensão na escola IU Education, com quiz no início e no fim da aula
+- Oficinas de HTML/CSS do projeto de extensão na escola IU Education (novembro de 2026), com quiz no início e no fim da aula
 
 ## Rodar localmente
 ```bash
